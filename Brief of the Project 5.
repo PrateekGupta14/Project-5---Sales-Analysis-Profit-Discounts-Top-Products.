@@ -1,0 +1,43 @@
+📈 Excel Project: Sales Data Analysis (Profit by City, Quantity & Discount Summary, Top Products)
+
+✅ Client Requirements
+The client requested insights based on a large dataset of 9,994 U.S. sales transactions. Specifically, the client asked for:
+City-wise Profit
+Display profit aggregated by city, sorted in descending order.
+State-wise Quantity and Discount Summary
+Calculate average quantity sold per state.
+Compute total discount provided in each state.
+Top 5 Sub-categories by Profit
+Identify the most profitable sub-categories of products.
+
+💼 Work Done:
+Each client query was resolved with Excel features including pivot tables and structured data analysis:
+
+City-wise Profit
+A pivot table was used to aggregate total profit by city.
+Data was sorted in descending order to highlight high-performing cities.
+
+✅ Client requirement met:
+
+Average Quantity & Total Discount
+State-wise analysis using average formula and sum function in a pivot table.
+
+Provided a clean summary showing both values side-by-side.
+
+✅ Client requirement met:
+
+Top 5 Profitable Sub-categories
+Aggregated sub-category profit totals.
+Filtered and sorted to present the top 5 sub-categories.
+
+✅ Client requirement met,
+
+🧾 Deliverables:
+Clean dataset with 21 fields including Sales, Quantity, Discount, Profit.
+Answers and analysis split across multiple sheets:
+
+"Sales Data" (raw data)
+
+"Client's Requirement" (queries)
+
+"Ans. 1" through "Ans. 3" (pivot-table-based answers)
